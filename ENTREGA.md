@@ -8,8 +8,10 @@
 
 ## Enlaces
 
-- Repositorio de GitHub:
-- Issue:
+- Repositorio de GitHub: https://github.com/VicRamD/tp-integrador-git-Ramirez-Diaz-Victor-Francisco
+- Issue: 
+    1. https://github.com/VicRamD/tp-integrador-git-Ramirez-Diaz-Victor-Francisco/issues/1
+    1. https://github.com/VicRamD/tp-integrador-git-Ramirez-Diaz-Victor-Francisco/issues/2
 - Pull request:
 
 ## Comandos principales utilizados
@@ -20,7 +22,6 @@ Indicar los comandos utilizados durante el trabajo:
 - git status
 - git add
 - git commit
-- git log --oneline
 - git remote add origin
 - git remote -v
 - git push
