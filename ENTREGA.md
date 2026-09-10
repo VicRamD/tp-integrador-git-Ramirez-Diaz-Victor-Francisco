@@ -12,6 +12,7 @@
 - Issue: 
     1. https://github.com/VicRamD/tp-integrador-git-Ramirez-Diaz-Victor-Francisco/issues/1
     1. https://github.com/VicRamD/tp-integrador-git-Ramirez-Diaz-Victor-Francisco/issues/2
+    1. https://github.com/VicRamD/tp-integrador-git-Ramirez-Diaz-Victor-Francisco/issues/3
 - Pull request:
 
 ## Comandos principales utilizados
