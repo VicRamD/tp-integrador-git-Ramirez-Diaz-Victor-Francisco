@@ -44,8 +44,8 @@ El proyecto se inició con la creación de un repositorio git local vacio utiliz
 
 ## Dificultades encontradas
 
-No hubo grandes dificultades. Solamente una vez que intenté usar el comando `git push` para subir cambios en la primer rama creada, pero recibí un mensaje de que falló en la consola. Lo resolví sencillamente leyendo el documento del trabajo integrador, donde muestra que el comando debe agregar -u origin. `git push -u origin mejora-readme`.
+No hubo grandes dificultades. Solamente una vez que intenté usar el comando `git push` para subir cambios en la primer rama creada, pero recibí un mensaje de que falló en la consola. Lo resolví sencillamente leyendo el documento del trabajo integrador, donde muestra que el comando debe agregar -u origin. `git push -u origin nombre-rama`.
 
 ## Reflexión final
 
-En mi caso como he estudiado en una carrera que enseña programación ya tenía por lo menos los conocimientos más básicos en git. Este curso me ha servido para no solo aprender nuevos comandos, sino para tener ideas más claras de los conceptos involucrados en el proceso de manejo de estos repositorios remotos y locales.
+En mi caso como he estudiado en una carrera que enseña programación ya tenía por lo menos los conocimientos más básicos en git. Este curso me ha servido para no solo aprender nuevos comandos, sino para tener ideas más claras de los conceptos involucrados en el proceso de manejo de estos repositorios remotos y locales, y aprender sobre buenas prácticas.
